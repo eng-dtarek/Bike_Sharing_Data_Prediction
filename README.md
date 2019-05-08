@@ -22,7 +22,7 @@ on the bike sharing dataset from UCI Machine Learning Database.
 
 The purpose of this project is to implement the components of a neural network including forward pass training, backpropagation, and an activation function to predict number of bikes to be shared using [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). 
 
-The resulted training loss < 0.07, validation loss < 0.14. (for more details on network architecture and hyperpatameters see this [document](https://github.com/eng-dtarek/Bike_Sharing_Data_Prediction/blob/master/my_answers.py)).
+The resulted training loss < 0.07 and validation loss < 0.14 that pass the required training loss (0.09) and validation loss (0.18). (for more details on network architecture and hyperpatameters see this [document](https://github.com/eng-dtarek/Bike_Sharing_Data_Prediction/blob/master/my_answers.py)).
 
 ## Getting Started
 
