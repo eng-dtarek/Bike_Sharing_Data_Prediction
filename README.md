@@ -2,6 +2,8 @@
 
 This project is a part of the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) at [Udacity](https://www.udacity.com/).
 
+-- Project Status: Completed
+
 ## Project Introduction
 
 Building a simple neural network from scratch to carry out a prediction problem
@@ -19,7 +21,8 @@ on the bike sharing dataset from UCI Machine Learning Database.
 ## Project Description
 
 The purpose of this project is to implement the components of a neural network including forward pass training, backpropagation, and an activation function to predict number of bikes to be shared using [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). 
-The resulted training Loss < 0.07 and Validation Loss < 0.14. (for more details on network architecture and hyperpatameters see this [document](https://github.com/eng-dtarek/Bike_Sharing_Data_Prediction/blob/master/my_answers.py)).
+
+The resulted training loss < 0.07, validation loss < 0.14. (for more details on network architecture and hyperpatameters see this [document](https://github.com/eng-dtarek/Bike_Sharing_Data_Prediction/blob/master/my_answers.py)).
 
 ## Getting Started
 
